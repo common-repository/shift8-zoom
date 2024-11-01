@@ -1,0 +1,16 @@
+{
+    "name": "shift8web/shift8-zoom",
+    "description": "Wordpress plugin to import Zoom webinars into custom content",
+    "type": "wordpress-plugin",
+    "license": "GPLv3",
+    "authors": [
+        {
+            "name": "stardothosting",
+            "email": "admin@stardothosting.com"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^5.2",
+        "nesbot/carbon": "^2.40"
+    }
+}
